@@ -50,3 +50,6 @@ const prime = (n)=>{
 
     pr = prime(5);
     console.log(pr);
+
+    
+    
